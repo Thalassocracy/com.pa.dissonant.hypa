@@ -1,0 +1,18 @@
+{
+    "author": "Dissonant",
+    "build": "113783",
+    "context": "server",
+    "date": "2019-10-12",
+    "description": "Unit cost and rolloff time is halved, 1.5x attack and turret rotation speed",
+    "display_name": "HyPA",
+    "forum": "https://forums.planetaryannihilation.com/threads/hypa.73426/",
+    "identifier": "com.pa.dissonant.hypa",
+    "signature": "not yet implemented",
+    "version": "0.9.3",
+    "icon": "https://i.imgur.com/iu6swso.png",
+    "priority": 115,
+    "category": [
+        "balance",
+        "titans"
+      ]
+}

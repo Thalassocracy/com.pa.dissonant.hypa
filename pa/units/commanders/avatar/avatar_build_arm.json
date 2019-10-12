@@ -1,0 +1,1 @@
+{"base_spec": "/pa/tools/engineer_build_arm/engineer_build_arm.json", "max_range": 10000, "construction_demand": {"energy": 0, "metal": 20000}, "yaw_rate": 5400.0, "pitch_rate": 5400.0, "assist_layers": ["WL_AnyLayer"], "reclaim_layers": ["WL_AnyLayer"]}

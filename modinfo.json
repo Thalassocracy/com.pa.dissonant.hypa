@@ -1,14 +1,14 @@
 {
     "author": "Dissonant",
-    "build": "113783",
+    "build": "113909",
     "context": "server",
-    "date": "2019-10-12",
-    "description": "Unit cost and rolloff time is halved, 1.5x attack and turret rotation speed",
+    "date": "2019-12-1",
+    "description": "Makes game fast!!! 2.0X Build Speed/Eco!!! 1.5X Attack/Move Speed!!!",
     "display_name": "HyPA",
     "forum": "https://forums.planetaryannihilation.com/threads/hypa.73426/",
     "identifier": "com.pa.dissonant.hypa",
     "signature": "not yet implemented",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "icon": "https://i.imgur.com/iu6swso.png",
     "priority": 115,
     "category": [
